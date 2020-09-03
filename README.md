@@ -31,15 +31,15 @@ However, allowing these requests did not get the messages to load.
 
 ---
 
-Instead, I had to go to the #rules channel where I was greeted with a Code Of Conduct and had to add an emoji response 
+Instead, I had to manually go to the #rules channel where I was greeted with a Code Of Conduct and had to add an emoji response 
 to agree to it?    
-That seems lame.  Is this a normal discord thing?      
+The emoji response thing seems lame.  Is this a normal discord thing?      
 ![Code Of Conduct in the Rules Channel](images/seckc_discord_rules.png)
 
 ---
 
 Having added an emoji response, I was granted access to a bunch of channels.    
-![Channel List(images/seckc_discord_channels.png)  
+![Channel List](images/seckc_discord_channels.png)  
 
 ## Sidebar
 ### Channel Clutter
