@@ -6,18 +6,19 @@ hope to achieve two goals with this writeup.
 
 My experience is with Discord in the browser.  I have not downloaded the app, so that experience might differ from 
 what I've documented. 
+
 ## Invite
-The invite was posted to the #secops channel by Jur1st 
+The invite was posted to the #secops channel by Jur1st  
 [https://discord.gg/eP6smp](https://discord.gg/eP6smp)
 
-I already had an existing Discord (thanks to DCDarkNet from way back when) account, so sign up was very easy. 
+I already had an existing Discord (thanks to DCDarkNet from way back when) account, so sign up was very easy.   
 
 ## Initial Greeting
-The first thing I was greated with was the "NSFW Channel" warning    
+The first thing I was greated with was the "NSFW Channel" warning  
 ![NSFW Channel Warning](images/nsfw_channel_warning.png)  
 
 I think this might have been a result of the invite being for the #outhouse channel, but I'm not sure.  I don't know 
-anything about discord, but this was an odd experience
+anything about discord, but this was an odd experience  
 
 ## Messages Failing To load
 At first the images failed to load, this seemed to be a result of UMatrix blocking XHR requests to 12.0.0.1 (Huh?)     
